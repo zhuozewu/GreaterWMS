@@ -21,48 +21,6 @@
       </q-item>
       <q-separator spaced inset="item" />
       <q-item>
-        <q-item-section>{{ $t('goods.view_goodslist.goods_weight') }}</q-item-section>
-        <q-item-section side>
-          <q-item-label caption>{{ datadetail.goods_weight }}</q-item-label>
-        </q-item-section>
-      </q-item>
-      <q-separator spaced inset="item" />
-      <q-item>
-        <q-item-section>{{ $t('goods.view_goodslist.goods_w') }}</q-item-section>
-        <q-item-section side>
-          <q-item-label caption>{{ datadetail.goods_w }}</q-item-label>
-        </q-item-section>
-      </q-item>
-      <q-separator spaced inset="item" />
-      <q-item>
-        <q-item-section>{{ $t('goods.view_goodslist.goods_d') }}</q-item-section>
-        <q-item-section side>
-          <q-item-label caption>{{ datadetail.goods_d }}</q-item-label>
-        </q-item-section>
-      </q-item>
-      <q-separator spaced inset="item" />
-      <q-item>
-        <q-item-section>{{ $t('goods.view_goodslist.goods_h') }}</q-item-section>
-        <q-item-section side>
-          <q-item-label caption>{{ datadetail.goods_h }}</q-item-label>
-        </q-item-section>
-      </q-item>
-      <q-separator spaced inset="item" />
-      <q-item>
-        <q-item-section>{{ $t('goods.view_goodslist.unit_volume') }}</q-item-section>
-        <q-item-section side>
-          <q-item-label caption>{{ datadetail.unit_volume }}</q-item-label>
-        </q-item-section>
-      </q-item>
-      <q-separator spaced inset="item" />
-      <q-item>
-        <q-item-section>{{ $t('goods.view_goodslist.goods_unit') }}</q-item-section>
-        <q-item-section side>
-          <q-item-label caption>{{ datadetail.goods_unit }}</q-item-label>
-        </q-item-section>
-      </q-item>
-      <q-separator spaced inset="item" />
-      <q-item>
         <q-item-section>{{ $t('goods.view_goodslist.goods_class') }}</q-item-section>
         <q-item-section side>
           <q-item-label caption>{{ datadetail.goods_class }}</q-item-label>
